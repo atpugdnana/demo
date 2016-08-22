@@ -7,3 +7,5 @@ Modified file
 
 this is going to cause conflict
 
+modified
+
