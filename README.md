@@ -5,4 +5,4 @@ This is a simple readme file
 
 Modified file
 
-this is modified, on updates branch
+this is going to cause conflict
